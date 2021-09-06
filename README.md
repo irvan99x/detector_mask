@@ -1,4 +1,4 @@
-# App About Cat in Flutter
+# Detector Mask in Flutter
 Source Code - Enjoy !
 
 # Social Media
