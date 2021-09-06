@@ -1,4 +1,4 @@
-# Detector Mask in Flutter
+# Detector Mask in Python
 Source Code - Enjoy !
 
 # Social Media
